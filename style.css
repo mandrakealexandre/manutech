@@ -3,7 +3,7 @@ header {
 }
 
 body {
-    background-color: rgb(96, 86, 246);
+    background-color: rgb(19, 5, 220);
 }
 
 .estudante-div {
@@ -26,10 +26,10 @@ body {
 }
 
 footer {
-    background-color: rgb(26, 212, 249);
+    background-color: rgb(36, 6, 158);
 }
 
 .rodape {
-    background-color: #faf2f2;
+    background-color: #2108a0;
     text-align: center;
 }
